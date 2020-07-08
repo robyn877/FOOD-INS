@@ -33,5 +33,10 @@
   }
 
   body {
-    background-image: url("./download\ \(7\).jpg");
+    background-color: black;
+  }
+
+  h1 {
+    font-size: 30px
+    
   }
