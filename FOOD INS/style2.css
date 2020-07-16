@@ -6,7 +6,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: orangered;
     overflow: hidden;
   }
   
@@ -28,7 +28,7 @@
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #4CAF50;
+    background-color: orangered;
     color: white;
   }
 
@@ -36,7 +36,15 @@
     background-color: black;
   }
 
+  h1{
+    color: white;
+  }
+
   h1 {
-    font-size: 30px
+    font-size: 25px
     
+  }
+
+  body{
+    color: white;
   }
